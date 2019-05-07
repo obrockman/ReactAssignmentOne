@@ -1,0 +1,14 @@
+.output{
+    box-shadow: 10px 15px 2px aquamarine;
+}
+.input{
+    display:block;
+    margin:20px auto;
+    width:30%;
+    border: 3px solid yellow;
+    box-shadow: 10px 15px 2px aquamarine;
+}
+.input input{
+    width:98%;
+    border: none;
+}
